@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DomashnaBelezirevaStack/1.0.0": {
+        "runtime": {
+          "DomashnaBelezirevaStack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomashnaBelezirevaStack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\bin\Debug\net8.0\DomashnaBelezirevaStack.exe
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\bin\Debug\net8.0\DomashnaBelezirevaStack.deps.json
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\bin\Debug\net8.0\DomashnaBelezirevaStack.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\bin\Debug\net8.0\DomashnaBelezirevaStack.dll
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\bin\Debug\net8.0\DomashnaBelezirevaStack.pdb
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.dll
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\refint\DomashnaBelezirevaStack.dll
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.pdb
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\DomashnaBelezirevaStack.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\DomashnaBelezirevaStack\DomashnaBelezirevaStack\obj\Debug\net8.0\ref\DomashnaBelezirevaStack.dll
